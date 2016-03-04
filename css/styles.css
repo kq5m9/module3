@@ -1,0 +1,26 @@
+h1 {
+	margin:-9px;
+	font-size: 1.3em;
+}
+
+h2 {
+	margin:15px;
+}
+
+#header-nav {
+	margin:0;
+}
+
+.navbar-brand {
+	font-size: 1.8em;
+	font-weight: bold;
+}
+
+.mainSection {
+	background-color:#ccc;
+	/*height:999px;*/
+}
+
+.sectionHeader {
+	font-size: 1.8em;
+}
