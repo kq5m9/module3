@@ -16,6 +16,10 @@ h2 {
 	font-weight: bold;
 }
 
+#collapsable-nav {
+	background-color:lightcyan;
+}
+
 .mainSection {
 	background-color:#ccc;
 	/*height:999px;*/
